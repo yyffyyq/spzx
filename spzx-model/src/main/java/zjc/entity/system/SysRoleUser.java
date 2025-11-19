@@ -1,6 +1,6 @@
-package zjc.dto.entity.system;
+package zjc.entity.system;
 
-import com.atguigu.spzx.model.entity.base.BaseEntity;
+import zjc.entity.base.BaseEntity;
 import lombok.Data;
 
 @Data

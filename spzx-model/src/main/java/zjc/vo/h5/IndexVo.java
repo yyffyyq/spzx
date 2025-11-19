@@ -1,8 +1,9 @@
-package com.atguigu.spzx.model.vo.h5;
+package zjc.vo.h5;
 
-import com.atguigu.spzx.model.entity.product.Category;
-import com.atguigu.spzx.model.entity.product.ProductSku;
+
 import lombok.Data;
+import zjc.entity.product.Category;
+import zjc.entity.product.ProductSku;
 
 import java.util.List;
 

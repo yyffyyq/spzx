@@ -1,6 +1,6 @@
-package zjc.dto.entity.h5;
+package zjc.entity.h5;
 
-import zjc.dto.entity.base.BaseEntity;
+import zjc.entity.base.BaseEntity;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 

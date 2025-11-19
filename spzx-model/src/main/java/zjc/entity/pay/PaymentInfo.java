@@ -1,6 +1,6 @@
-package zjc.dto.entity.pay;
+package zjc.entity.pay;
 
-import zjc.dto.entity.base.BaseEntity;
+import zjc.entity.base.BaseEntity;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
 

@@ -1,7 +1,7 @@
-package zjc.dto.entity.product;
+package zjc.entity.product;
 
-import com.atguigu.spzx.model.entity.base.BaseEntity;
 import lombok.Data;
+import zjc.entity.base.BaseEntity;
 
 @Data
 public class ProductDetails extends BaseEntity {

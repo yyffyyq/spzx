@@ -1,8 +1,9 @@
-package zjc.dto.entity.product;
+package zjc.entity.product;
 
-import com.atguigu.spzx.model.entity.base.BaseEntity;
+
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;
+import zjc.entity.base.BaseEntity;
 
 import java.util.List;
 

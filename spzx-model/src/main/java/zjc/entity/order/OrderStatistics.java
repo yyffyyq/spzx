@@ -1,6 +1,6 @@
-package zjc.dto.entity.order;
+package zjc.entity.order;
 
-import com.atguigu.spzx.model.entity.base.BaseEntity;
+import zjc.entity.base.BaseEntity;
 import lombok.Data;
 
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package com.atguigu.spzx.model.vo.product;
+package zjc.vo.product;
 
 import com.alibaba.excel.annotation.ExcelProperty;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package zjc.dto.entity.base;
+package zjc.entity.base;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import io.swagger.v3.oas.annotations.media.Schema;

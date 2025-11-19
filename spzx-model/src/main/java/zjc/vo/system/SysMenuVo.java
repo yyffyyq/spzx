@@ -1,4 +1,4 @@
-package com.atguigu.spzx.model.vo.system;
+package zjc.vo.system;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;

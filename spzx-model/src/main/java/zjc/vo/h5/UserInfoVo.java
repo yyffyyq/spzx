@@ -1,4 +1,4 @@
-package com.atguigu.spzx.model.vo.h5;
+package zjc.vo.h5;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Data;

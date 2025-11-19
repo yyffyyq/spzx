@@ -1,4 +1,4 @@
-package com.atguigu.spzx.model.vo.common;
+package zjc.vo.common;
 
 import lombok.Getter;
 
