@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spzx-model" />
+        <module name="spzx-server-gateway" />
+        <module name="common-util" />
+        <module name="common-log" />
+        <module name="common-service" />
+        <module name="spzx-manager" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spdx-model" target="1.7" />
+      <module name="spzx-common" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="common-log" options="-parameters" />
+      <module name="common-service" options="-parameters" />
+      <module name="common-util" options="-parameters" />
+      <module name="spzx-commom" options="" />
+      <module name="spzx-common" options="-parameters" />
+      <module name="spzx-manager" options="-parameters" />
+      <module name="spzx-model" options="-parameters" />
+      <module name="spzx-parent" options="" />
+      <module name="spzx-server-gateway" options="-parameters" />
+    </option>
+  </component>
+</project>
