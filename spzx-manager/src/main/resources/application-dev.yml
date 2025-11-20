@@ -24,3 +24,4 @@ spzx:
       - /admin/system/index/login
       - /admin/system/index/generateValidateCode
       - /doc.html/
+  identifier: "01"

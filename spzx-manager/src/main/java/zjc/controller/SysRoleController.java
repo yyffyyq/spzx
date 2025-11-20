@@ -27,5 +27,11 @@ public class SysRoleController {
         return Result.build(pageInfo, ResultCodeEnum.SUCCESS);
     }
 
+    //添加用户
+    @PostMapping(value = "/saveSysRole")
+    public Result saveSysRole(@RequestBody SysRole sysRole) {
+        sysRoleService.saveSysRole(sysRole);
+        return Result.build(null, ResultCodeEnum.SUCCESS);
+    }
 
 }
